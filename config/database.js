@@ -5,3 +5,5 @@ module.exports = {
   secret: crypto,
   db: "MeanBlogDB",
 };
+
+some change
